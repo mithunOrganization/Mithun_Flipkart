@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-adding file
-=======
+
 adding in bugfix
->>>>>>> bugfix
