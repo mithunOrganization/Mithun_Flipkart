@@ -1,2 +1,2 @@
 adding bhaskhar data
-from bhaskhar pdf
+from bhaskhar pdfs
