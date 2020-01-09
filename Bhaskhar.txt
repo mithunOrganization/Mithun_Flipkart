@@ -1,10 +1,3 @@
-<<<<<<< HEAD
 
 adding in bugfix and checking
-=======
-<<<<<<< HEAD
-adding file
-=======
-adding in bugfix
->>>>>>> bugfix
->>>>>>> parent of 1d7db7d... Removed Blank
+adding file Testing The SSH
