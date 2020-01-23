@@ -1,3 +1,6 @@
 
 adding in bugfix
+
 adding file Testing The git stash for undo changes for cleaning command clean change command revert command git diff command remote repo
+adding file Testing The git stash for undo changes for cleaning command clean change command revert command git diff command
+git stash stash command
