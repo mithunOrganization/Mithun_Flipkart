@@ -8,4 +8,4 @@ so it's to edit the conflict
 one line added
 
 
-git merge command
+git merge in current branch in master
