@@ -3,3 +3,5 @@ adding file Testing The git stash for undo changes for cleaning command clean ch
 git stash stash command
 git fetch in remote repositary
 in master branch
+git fetch in remote added
+so it's to edit the conflict
