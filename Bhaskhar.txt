@@ -6,3 +6,6 @@ in master branch
 git fetch in remote added
 so it's to edit the conflict
 one line added
+
+
+git merge command
