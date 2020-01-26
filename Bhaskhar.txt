@@ -8,4 +8,4 @@ so it's to edit the conflict
 one line added
 
 
-git merge deleted some data in about branch it's in about branch
+git merge deleted some data in about branch it's in about branch adding
